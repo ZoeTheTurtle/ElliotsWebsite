@@ -54,7 +54,7 @@ a:hover, a:active { text-decoration: none; color:black }
 }
 
 .navItem:hover{
-    background-color: blue;
+    background-color: aqua;
     z-index: 999;
 }
 
