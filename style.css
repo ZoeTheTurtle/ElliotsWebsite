@@ -39,9 +39,9 @@ a:hover, a:active { text-decoration: none; color:black }
     float: left;
     background-color: #7091e6;
     width: 20%;
-    height: 50px;
+    height: 100px;
     text-align: center;
-    vertical-align: middle;
+    vertical-align: bottom;
     line-height: 50px;
     font-size: 200%;
     border-bottom-right-radius: 45px;
